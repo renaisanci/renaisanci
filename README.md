@@ -19,7 +19,42 @@
   <g-emoji class="g-emoji" alias="hammer_and_wrench"
     fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;Tech Stack
 </h3>
+ <p align="left">
+  <a target="_blank" rel="noopener noreferrer"
+    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
+      width="40" height="40" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer"
+    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+      alt="dotnet" width="40" height="40" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer"
+    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer"
+    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript" width="40" height="40" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer"
+    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker" width="40" height="40" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer"
+    href="https://camo.githubusercontent.com/6d20d4c78e20fa7c89ac8da5ac3073ddc12e05513e13d0dad8af6072187812c9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6b756265726e657465732e706e67"><img
+      src="https://camo.githubusercontent.com/6d20d4c78e20fa7c89ac8da5ac3073ddc12e05513e13d0dad8af6072187812c9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6b756265726e657465732e706e67"
+      alt="kubernetes" width="43" height="43" data-canonical-src="https://img.icons8.com/color/48/000000/kubernetes.png"
+      style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer"
+    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular"
+      width="40" height="40" style="max-width:100%;"></a>
+</p>
 
+
+ 
+ 
+ 
 <ul>
   <li>
     <g-emoji class="g-emoji" alias="globe_with_meridians"
@@ -95,6 +130,8 @@
         alt="Visual Studio Code"
         data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC"
         style="max-width:100%;"></a>
+   
+ 
   </li>
 </ul>
 
@@ -117,3 +154,7 @@
 
  
 </ul>
+
+ 
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaisanci&show_icons=true)
