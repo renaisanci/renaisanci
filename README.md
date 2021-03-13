@@ -3,7 +3,7 @@
 <p>Here something about me:</p>
 
 <ul>
-<li>🔭 I’m currently working as Software Engineer </li>
+<li>🔭 I’m currently working as Software Engineer, Azure, Cloud, Microservices, RabbitMQ, DevOps, CI\CD Pepilines </li>
 <li>💪 Entrepreneurial Enthusiast @economizaja </li>
 <li>🌱 Your Brain is like a muscle. Use it or Lose it.</li>
 <li>⚡ Learning something new ever ...</li>
