@@ -4,7 +4,7 @@
 
 <ul>
 <li>🔭 I’m currently working as Software Engineer, Azure, Cloud, Microservices, RabbitMQ, DevOps, CI\CD Pepilines </li>
-<li>💪 Entrepreneurial Enthusiast @economizaja </li>
+<li>💪 Entrepreneurial Enthusiast @economizaja <br> www.economizaja.com.br <br> https://www.youtube.com/watch?v=KWJDGbRxYPk</li>
 <li>🌱 Your Brain is like a muscle. Use it or Lose it.</li>
 <li>⚡ Learning something new ever ...</li>
 <li>🤔🤔 Two heads are better than one</li>
