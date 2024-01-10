@@ -77,21 +77,8 @@
         data-canonical-src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript"
         style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer"
-      href="https://camo.githubusercontent.com/8c7439e0902b02ff15f065b0ca02eb7d37d5021e088a872a4c9d2ed5cc9b513d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3333333333333f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"><img
-        src="https://camo.githubusercontent.com/8c7439e0902b02ff15f065b0ca02eb7d37d5021e088a872a4c9d2ed5cc9b513d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3333333333333f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"
-        alt="Bootstrap"
-        data-canonical-src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C"
-        style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"
-      href="https://camo.githubusercontent.com/7659585b1e4c20c318f170a540852bfdb675907e3f70d05dc29cf5bde1081250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73"><img
-        src="https://camo.githubusercontent.com/7659585b1e4c20c318f170a540852bfdb675907e3f70d05dc29cf5bde1081250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73"
-        alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js"
-        style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"
-      href="https://camo.githubusercontent.com/b8f9baf34dfa59e5cf63be744777f8f01596535a4bcc1502df3cf39a71d41c23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374"><img
-        src="https://camo.githubusercontent.com/b8f9baf34dfa59e5cf63be744777f8f01596535a4bcc1502df3cf39a71d41c23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374"
-        alt="React" data-canonical-src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react"
-        style="max-width:100%;"></a>
+      href="https://camo.githubusercontent.com/8c7439e0902b02ff15f065b0ca02eb7d37d5021e088a872a4c9d2ed5cc9b513d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3333333333333f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"> 
+  
   </li>
   <li>
     <g-emoji class="g-emoji" alias="oil_drum"
