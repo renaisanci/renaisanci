@@ -68,6 +68,9 @@
     
     
 <ul>
+
+
+<li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7281273332182794240/" rel="nofollow">Keyed service dependency injection</a></li>
  
 <li><a href="https://www.linkedin.com/posts/renato-fonseca-67859653_have-you-ever-heard-about-ocelot-so-lets-activity-6769322355996012544-pWfk" rel="nofollow">Have You Ever Heard About ocelot</a></li>
 
